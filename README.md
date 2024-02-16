@@ -1,0 +1,1 @@
+# Automa-o-de-um-PDF-para-um-excel.xlsx
